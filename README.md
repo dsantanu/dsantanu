@@ -55,6 +55,19 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dsantanu&show_icons=true&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dsantanu&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsantanu&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
 ### 🌍 Connect
 
 📘 [dev.to/santanu_das](https://dev.to/santanu_das)  

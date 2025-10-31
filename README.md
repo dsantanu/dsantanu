@@ -6,7 +6,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 🌩️ What I Do
-
 - 🧱 Design and implement **multi-account AWS architectures** using best practices (Control Tower, AFT, SSO).
 - ⚙️ Build **Terraform-based Infrastructure as Code** pipelines.
 - 📊 Lead **FinOps optimization** and cost visibility initiatives.
@@ -16,7 +15,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 🧰 Featured Projects
-
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**AWS Cost Audit**](https://github.com/dsantanu/aws-cost-audit) | A modular, cross-platform Bash toolkit for AWS FinOps auditing and cost optimization. | Bash, AWS CLI, jq |
@@ -26,7 +24,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 🧩 Current Focus Areas
-
 - ☁️ **AWS FinOps automation** — measuring, tagging, and optimizing spend  
 - 🧠 **Cost-aware architecture** — balancing scalability with budget discipline  
 - 🚀 **Terraform modularization** — reusable and composable IaC patterns  
@@ -35,7 +32,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 📘 Latest Articles
-
 - [Automating Transit Gateway Attachment Tagging with EventBridge & Lambda](https://dev.to/santanu_das/automating-transit-gateway-attachment-tagging-using-eventbridge-and-lambda-10lh)
 - [Integrating Amazon EFS with Amazon EKS using Terraform](https://dev.to/santanu_das/integrating-amazon-efs-with-amazon-eks-using-terraform-4f1n)
 - [AWS Cost Audit v4.2 — Cross-Platform FinOps Automation (Coming Soon)](https://dev.to/santanu_das)
@@ -43,7 +39,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 🧠 Tech Stack & Tools
-
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -56,7 +51,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dsantanu&show_icons=true&theme=default&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dsantanu&theme=default&hide_border=true" />
@@ -69,7 +63,6 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 ---
 
 ### 🌍 Connect
-
 📘 [dev.to/santanu_das](https://dev.to/santanu_das)  
 💼 [linkedin.com/in/santanu-das](https://www.linkedin.com/in/santanu-das-32a80a40/)  
 🐙 [github.com/dsantanu](https://github.com/dsantanu)

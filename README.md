@@ -16,10 +16,10 @@ Helping teams automate, optimize, and understand their cloud infrastructure — 
 
 ### 🧰 Featured Projects
 | Project | Description | Tech |
-|----------|--------------|------|
+|:--------|:------------|:------|
 | [**AWS Cost Audit**](https://github.com/dsantanu/aws-cost-audit) | A modular, cross-platform Bash toolkit for AWS FinOps auditing and cost optimization. | Bash, AWS CLI, jq |
-| [**Integrating EFS with EKS (Terraform Guide)**](https://dev.to/santanu_das/integrating-amazon-efs-with-amazon-eks-using-terraform-4f1n) | Step-by-step article on provisioning EFS storage in EKS clusters using Terraform. | Terraform, EKS, EFS |
-| **AWS Control Tower Strategy** *(in progress)* | Designing a secure multi-region Control Tower setup with AFT and SCPs. | AWS Org, Control Tower, IAM |
+| [**Integrating EFS with EKS (Terraform Guide)**](https://dev.to/santanu_das/integrating-amazon-efs-with-amazon-eks-using-terraform-4f5l) | Step-by-step article on provisioning EFS storage in EKS clusters using Terraform. | Terraform, EKS, EFS |
+| [**AWS Control Tower Strategy**](https://dev.to/santanu_das/building-a-scalable-aws-multi-account-environment-with-control-tower-terraform-aft-and-scp-2kf8) | Designing a secure multi-region Control Tower setup with AFT and SCPs. | AWS Org, Control Tower, IAM |
 
 ---
 
